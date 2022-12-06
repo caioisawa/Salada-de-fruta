@@ -9,8 +9,6 @@ Receita
 <h2><i>LISTA DE INGREDIENTES PARA REALIZAR UMA SALA DE FRUTAS - não ordenada
  </i></h2>
 
-  <h1>SALADA DE FRUTAS</h1> 
-
 <h1><p><stong>Ingredientes:</stong></p></h1>
 
 <b><h3><p>12 bananas</p> </b></h3> <img src="https://vitta-blog-vitta-me.s3.sa-east-1.amazonaws.com/wp-content/uploads/2020/05/conheca-todos-os-beneficios-da-banana.jpg" width=150 height="150">
